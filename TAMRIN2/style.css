@@ -1,0 +1,14 @@
+.form-control{
+    background-color: rgb(247, 244, 241);
+   
+}
+.form-control-sm{
+    background-color: rgb(247, 244, 241);
+}
+.btn{
+    background-color: blueviolet;
+    outline: blueviolet;
+}
+.btn:hover{
+    background-color: rgb(94, 24, 90);
+}
